@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Reading Books
+* Hikes
+* Rock climbing
+* Camping
+* Riding dirtbikes
